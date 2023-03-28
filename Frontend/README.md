@@ -1,7 +1,28 @@
-# Please download node modules files that contains all the React dependencies packages and paste it in Frontend folder for running this project. I could not upload it as its very large. It can also be downloaded via this drive link 
+## NOTE: 
+
+Please download node modules files that contains all the React dependencies packages and paste it in Frontend folder for running this project. I could not upload it as its very large. It can also be downloaded via this drive link 
+
 https://drive.google.com/drive/folders/149tvgtp1_u-xmBtli2ffu4mwTRIonVTV?usp=sharing
 
-# Getting Started with Create React App
+## About the project:
+
+Frontend: React\
+Database: MongoDB\
+Library: Material UI\
+API Platform : Postman (to connect to MongoDB Database and to send in raw data to MongoDB)
+
+Support: npmjs.com, jwt.io\
+Referred sites:
+
+https://formik.org/docs/examples/with-material-ui \
+https://www.npmjs.com/package/yup \
+https://www.npmjs.com/package/react-pro-sidebar \
+https://www.npmjs.com/package/moment \
+https://legacy.reactjs.org/docs/higher-order-components.html \
+https://mui.com/x/react-data-grid/ \
+https://www.react-google-charts.com/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
