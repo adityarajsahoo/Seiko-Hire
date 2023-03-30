@@ -1,9 +1,3 @@
-## NOTE: 
-
-Please download node modules files that contains all the React dependencies packages and paste it in Frontend folder for running this project. I could not upload it as its very large. It can also be downloaded via this drive link 
-
-https://drive.google.com/drive/folders/149tvgtp1_u-xmBtli2ffu4mwTRIonVTV?usp=sharing
-
 ## About the project:
 
 The project is about building a job matching application portal that users can use to select their job preferences from a list/form available and apply for them.
@@ -39,25 +33,25 @@ git clone https://github.com/adityarajsahoo/Seiko-Job-Portal-Application-Project
 Go to the project directory:
 
 ```bash
-cd Frontend
-````
-
-Building docker image for frontend:
-
-```bash
-docker build -t frontend
-````
-
-Then:
-
-```bash
 cd backend
 ````
 
 Building docker image for backend:
 
 ```bash
-docker build -t backend
+docker build -t backend:1.0 .
+````
+
+Go to the project directory:
+
+```bash
+cd Frontend
+````
+
+Building docker image for frontend:
+
+```bash
+docker build -t frontend:1.0 .
 ````
 
 Start the application using Docker Compose:
