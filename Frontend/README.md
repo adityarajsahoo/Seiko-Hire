@@ -20,11 +20,7 @@ https://www.react-google-charts.com/
 
 ## Steps to Plug and Play
 
-Clone the project
-
-```bash
-git clone https://github.com/adityarajsahoo/Seiko-Job-Portal-Application-Project-Backend.git 
-````
+Clone the project:
 
 ```bash
 git clone https://github.com/adityarajsahoo/Seiko-Job-Portal-Application-Project-Frontend.git
@@ -33,7 +29,7 @@ git clone https://github.com/adityarajsahoo/Seiko-Job-Portal-Application-Project
 Go to the project directory:
 
 ```bash
-cd backend
+cd Backend
 ````
 
 Building docker image for backend:
