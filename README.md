@@ -29,6 +29,30 @@ git clone https://github.com/adityarajsahoo/Seiko-Job-Portal-Application-Project
 Go to the project directory:
 
 ```bash
+cd Seiko-Job-Portal-Application-Project-Frontend
+````
+
+Start the application using Docker Compose:
+
+```bash
+docker-compose up
+````
+
+Navigate to http://localhost:3000 in your web browser to access the application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--```bash
 cd Backend
 ````
 
@@ -61,11 +85,4 @@ Next:
 ```bash
 cd ..
 ````
-
-Start the application using Docker Compose:
-
-```bash
-docker-compose up
-````
-
-Navigate to http://localhost:3000 in your web browser to access the application.
+-->
