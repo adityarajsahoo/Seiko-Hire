@@ -56,6 +56,12 @@ Building docker image for frontend:
 docker build -t frontend:2.0 .
 ````
 
+Next:
+
+```bash
+cd ..
+````
+
 Start the application using Docker Compose:
 
 ```bash
