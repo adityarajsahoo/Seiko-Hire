@@ -1,8 +1,6 @@
 # Use a base image with Node.js pre-installed
 FROM node:16.19.1-alpine
 
-RUN npm install -g nodemon
-
 # Set the working directory to /app
 WORKDIR /app
 
@@ -24,4 +22,4 @@ EXPOSE 9000
 ENV MONGO_URL=mongodb+srv://adityarajsahoouser:adityarajsahoo@cluster0.ajk0wyt.mongodb.net/?retryWrites=true&w=majority
 
 # Start the server
-CMD ["nodemon", "npm", "start"]
+CMD ["npm", "start"]
