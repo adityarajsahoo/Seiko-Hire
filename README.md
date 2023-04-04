@@ -38,6 +38,8 @@ Building docker image for backend:
 docker build -t backend:1.0 .
 ````
 
+Next:
+
 ```bash
 cd ..
 ````
