@@ -38,6 +38,10 @@ Building docker image for backend:
 docker build -t backend:1.0 .
 ````
 
+```bash
+cd ..
+````
+
 Go to the project directory:
 
 ```bash
