@@ -70,13 +70,12 @@ https://www.react-google-charts.com
 
 ## Seiko Job Portal Application Screenshots:
 
-![Screenshot 2023-04-05 231113](https://user-images.githubusercontent.com/66211350/230163350-22ac8275-cbca-400e-b604-f1a0822b20f7.png)
-![Screenshot 2023-04-05 231440](https://user-images.githubusercontent.com/66211350/230163764-7eef0254-ca7e-4930-9eda-07c424af6311.png)
-![Screenshot 2023-04-05 231749](https://user-images.githubusercontent.com/66211350/230163814-842afbd1-0214-43a4-92dd-0c59180c4387.png)
-![Screenshot 2023-04-05 231847](https://user-images.githubusercontent.com/66211350/230163866-6e070459-ff31-4a5e-8027-2f4f5eed40e1.png)
-![Screenshot 2023-04-01 004030](https://user-images.githubusercontent.com/66211350/230104766-5cdb83d7-bde8-43ba-8fee-678719029514.png)
-![Screenshot 2023-04-01 002346](https://user-images.githubusercontent.com/66211350/230104847-e4482a97-5ae7-4dfc-95d4-60a09b1b5108.png)
-![Screenshot 2023-04-01 002438](https://user-images.githubusercontent.com/66211350/230104927-700cbd7e-e984-4241-a13a-29fc6b8e32e8.png)
+![Screenshot 2023-04-11 223855](https://user-images.githubusercontent.com/66211350/231254947-59e4fae5-a098-412b-924a-59296958fe1d.png)
+![Screenshot 2023-04-11 223813](https://user-images.githubusercontent.com/66211350/231254991-4d78bd95-fdcd-416c-ad63-670992ad627e.png)
+![Screenshot 2023-04-11 224014](https://user-images.githubusercontent.com/66211350/231255061-5eb14bbe-dfab-4314-af6b-a02219ed13da.png)
+![Screenshot 2023-04-11 225123](https://user-images.githubusercontent.com/66211350/231255114-29ff2ae1-a733-4522-acfa-0792bf3f1468.png)
+![Screenshot 2023-04-11 225148](https://user-images.githubusercontent.com/66211350/231255169-6f176c4b-36e4-4e4d-ba58-d23d0c6f43f8.png)
+![Screenshot 2023-04-11 225220](https://user-images.githubusercontent.com/66211350/231255221-7f851bf7-1f2c-4b8a-91be-310ba49d8e9b.png)
 
 ## MongoDB Database Screenshots:
 
@@ -90,3 +89,7 @@ https://www.react-google-charts.com
 ![Delete_job_type](https://user-images.githubusercontent.com/66211350/230164331-4913989a-d348-46aa-8529-4346ab36af5e.png)
 ![Update_Job](https://user-images.githubusercontent.com/66211350/230164433-884e64eb-d7ce-4840-a079-fc3812ff74fd.png)
 ![ArrayOfJobsApplied](https://user-images.githubusercontent.com/66211350/230164675-0620779e-e88c-4c76-941e-eb6e2e8ade56.png)
+
+## Containerization using Docker Screenshot:
+
+![Screenshot 2023-04-11 224843](https://user-images.githubusercontent.com/66211350/231255441-6aa10d3a-4cec-46aa-b604-fab7781162cb.png)
