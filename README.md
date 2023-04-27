@@ -53,7 +53,7 @@ Admin Password: adminuser123
 Frontend: React (JavaScript dialect) \
 Database: MongoDB (Built my own dummy database in MongoDB to store my data) \
 Library: Material UI (Front-End framework for React components) \
-API Platform : Postman (To connect to MongoDB Database and send raw data to MongoDB) \
+API Platform: Postman (To connect to MongoDB Database and send raw data to MongoDB) \
 Containerization Platform: Docker (To pack an application and all of its dependencies into a single unit called a container and run on any system that has Docker installed)
 
 ## Referred Sites:
