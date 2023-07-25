@@ -1,4 +1,4 @@
-## Seiko Job Portal (Job matching application):
+## Seiko Job Portal Application Project (Job matching application):
 
 The project is about building a job-matching application portal that will allow users to select and apply for their job preferences from an available list.
 
