@@ -4,8 +4,7 @@
   "description": "Job Portal Project",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "build": "npm i"
+    "start": "node app.js"
   },
   "author": "Aditya Raj Sahoo",
   "license": "ISC",
